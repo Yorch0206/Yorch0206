@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yorch0206
 - 👀 I’m interested in Seismology and Programing
 - 🌱 I’m currently learning Geophysics
-- 💞️ I’m looking to collaborate on Seismology students
+- 💞️ I’m looking to collaborate on Seismology themes
 - 📫 How to reach me on email: yorchquiroz@outlook.com
 
 <!---
